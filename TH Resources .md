@@ -15,3 +15,9 @@ https://www.activecountermeasures.com/free-tools/espy/
 https://howto.thec2matrix.com/
 
 https://www.youtube.com/watch?v=rvaBIk3JjLo
+
+https://www.activecountermeasures.com/cyber-threat-hunting-training-course/
+
+https://www.activecountermeasures.com/wp-content/uploads/2022/07/Network_Threat_Hunting_-_20220709.pdf
+
+https://www.activecountermeasures.com/free-tools/ <Opensource tools!
